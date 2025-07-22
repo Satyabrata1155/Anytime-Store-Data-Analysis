@@ -4,49 +4,49 @@ The Anytime Store wants to create an annual sales report for 2022. So that, the 
 ## Dataset used
 - <a href="https://github.com/Satyabrata1155/Anytime-Store-Data-Analysis/commit/99401ac98a60930c2bf46a911e540c12bbc643e4">Dataset</a>
 ## Questions (KPIs)
-Compare the sales and orders using single chart.
+-Compare the sales and orders using single chart.
 
-Which month got the highest sales and orders?
+-Which month got the highest sales and orders?
 
-Who purchased more - Men or Women?
+-Who purchased more - Men or Women?
 
-What are different order status in 2022?
+-What are different order status in 2022?
 
-List top 10 states contributingto the sales?
+-List top 10 states contributingto the sales?
 
-Relation between age and gender based on number of orders.
+-Relation between age and gender based on number of orders.
 
-Which Channel is contributing maximum to the sales?
+-Which Channel is contributing maximum to the sales?
 
-Highest selling category?
+-Highest selling category?
 
-Percentage of Total Orders delivered
+-Percentage of Total Orders delivered
 
-Dashboard interaction-<a href="https://github.com/Satyabrata1155/Anytime-Store-Data-Analysis/commit/b58867afd5e15947fd022aec47ddab8dbc187016">View-Dashboard</a>
+-Dashboard interaction-<a href="https://github.com/Satyabrata1155/Anytime-Store-Data-Analysis/commit/b58867afd5e15947fd022aec47ddab8dbc187016">View-Dashboard</a>
 
 ## Process
-Verify data for any missing values and anomalies, and sort out the same.
+-Verify data for any missing values and anomalies, and sort out the same.
 
-Made sure data is consistent and clean with respect to data type, data format and values used.
+-Made sure data is consistent and clean with respect to data type, data format and values used.
 
-Created pivot tables according to the questions asked.
+-Created pivot tables according to the questions asked.
 
-Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+-Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
 <img width="1596" height="570" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/9c77be1e-6a04-4339-a14b-0675dcbabc1c" />
 
 ## Project Insight
 
-Women customers are more likely to buy products compared to men (~65%).
+-Women customers are more likely to buy products compared to men (~65%).
 
-The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+-The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
 
-The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+-The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
 
-The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+-The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
 
-More than 90% of the products delivered
+-More than 90% of the products delivered
 
 ## Final Conclusion:
 
