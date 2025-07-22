@@ -24,5 +24,14 @@ Percentage of Total Orders delivered
 
 Dashboard interaction-<a href="https://github.com/Satyabrata1155/Anytime-Store-Data-Analysis/commit/b58867afd5e15947fd022aec47ddab8dbc187016">View-Dashboard</a>
 
+## Process
+Verify data for any missing values and anomalies, and sort out the same.
+Made sure data is consistent and clean with respect to data type, data format and values used.
+Created pivot tables according to the questions asked.
+Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## Dashboard
+<img width="1596" height="570" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/9c77be1e-6a04-4339-a14b-0675dcbabc1c" />
+
+
 
 
